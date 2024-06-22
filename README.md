@@ -5,7 +5,7 @@ Year 2 Computer Science Student at University of Birmingham Dubai
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
-* 🖥️  See my portfolio at [MyPortfolio](http://raisa05.github.io/social-media-dashboard-website/)
+* 🖥️  See my portfolio at [MyPortfolio](https://raisa05.github.io/Raisa-Portfolio/)
 * 🧠  I'm learning BSc Computer Science
 
 ### Skills
